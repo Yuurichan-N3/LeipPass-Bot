@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'httparty'
+gem 'json'
+gem 'colorize'
+gem 'terminal-table'
+gem 'ruby-progressbar'
