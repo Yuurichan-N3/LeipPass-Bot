@@ -7,7 +7,7 @@ require 'ruby-progressbar'
 def display_banner
   banner = <<~BANNER
     ╔══════════════════════════════════════════════╗
-    ║       🌟 LEIP BOT - Waitlist Automator       ║
+    ║       🌟 LIEP BOT - Waitlist Automator       ║
     ║   Automate your Leippass waitlist signup!    ║
     ║  Developed by: https://t.me/sentineldiscus   ║
     ╚══════════════════════════════════════════════╝
