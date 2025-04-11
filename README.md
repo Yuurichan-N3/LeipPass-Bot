@@ -1,4 +1,4 @@
-# 🌟 Leip Bot - Waitlist Automator
+# 🌟 Liep Bot - Waitlist Automator
 
 Leip Bot adalah alat otomatisasi untuk mendaftar ke waitlist Leippass secara massal. Script ini dibuat menggunakan Ruby dan dirancang untuk membantu pengguna mengirimkan pendaftaran waitlist dengan email dan username acak, lengkap dengan kode referal. Fitur utama termasuk tampilan tabel hasil, progress bar, dan penanganan error untuk pengalaman yang mulus.
 
